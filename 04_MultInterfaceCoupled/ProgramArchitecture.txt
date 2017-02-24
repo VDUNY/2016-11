@@ -1,0 +1,19 @@
+Client UI (xaml) has labels for data and buttons for actions.
+Client UI subscribes to events to receive data.
+Server raises events to provide data.
+
+Start client
+	Client creates user interface with labels (data) and buttons (actions).
+	Client initializes user state.
+	If real world Client dynamicly loads server ctor.
+	If simulator Client dynamicaly loads server simulator ctor.
+	Client wires up reporting methods.
+
+Wait for user to command an action.
+	If start data reporting
+		Call interface run method.
+		Loop until quit
+			Retrieve each of the properties via the interface.
+	If stop data reporting
+		Call interface quit method.
+		Break out of loop.

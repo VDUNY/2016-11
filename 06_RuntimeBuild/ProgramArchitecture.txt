@@ -1,0 +1,17 @@
+Client UI (xaml) loads controls found in the runtime dir.
+Client UI subscribes to events to receive data.
+Server raises events to provide data.
+
+Start client
+	Client loads MEF controls found in runtime dir.
+	Client initializes user state.
+	If real world Client dynamically loads server.
+	If simulator Client dynamically loads simulator.
+	Client controls wire up reporting methods.
+
+All controls wait for user to command an action.
+	If start data reporting
+		Call interface run method.
+		Wait on event to retrieve each of the properties via the interface.
+	If stop data reporting
+		Call interface quit method.

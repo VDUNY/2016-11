@@ -1,0 +1,12 @@
+﻿<Application x:Class="Driver_Prism.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+>
+    <!--
+            StartupUri="MainWindow.xaml"    // not needed in <Application> tag when using bootstrapping
+    -->
+    
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

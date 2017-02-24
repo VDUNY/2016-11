@@ -1,0 +1,5 @@
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\05_RuntimeBuild\Build\IWx_Station.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\05_RuntimeBuild\Build\IWx_Station.pdb
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\05_RuntimeBuild\IWxStation\obj\Debug\IWxStation.csprojResolveAssemblyReference.cache
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\05_RuntimeBuild\IWxStation\obj\Debug\IWx_Station.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\05_RuntimeBuild\IWxStation\obj\Debug\IWx_Station.pdb

@@ -1,0 +1,5 @@
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\Build\Wind_ViewModel.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\Build\Wind_ViewModel.pdb
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\Wind_ViewModel\obj\Debug\Wind_ViewModel.csprojResolveAssemblyReference.cache
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\Wind_ViewModel\obj\Debug\Wind_ViewModel.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\Wind_ViewModel\obj\Debug\Wind_ViewModel.pdb

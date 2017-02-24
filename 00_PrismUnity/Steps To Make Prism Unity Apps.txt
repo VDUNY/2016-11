@@ -1,0 +1,8 @@
+Setting up the PRISM Application  (https://www.youtube.com/watch?v=j51y016h4_w)
+
+Create the SilverLight App
+  Will need to install SilverLight on the computer. May not run in Chrome. Can NOT debug Silverlight in Chrome.
+  New SilverLight App: uncheck the Host SilverLight App in New Web Site
+  Delete the main page and remove the call to create it in App.xaml.cs.Application_Startup()
+  Create a new SilverLight User Control to act as the shell. Name the file 'Shell.xaml'.
+  Create the bootstrapper in a new class and call it 'Bootstrapper.cs'.

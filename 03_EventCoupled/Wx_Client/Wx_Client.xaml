@@ -1,0 +1,27 @@
+﻿<Window x:Class="Wx_Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        Closing="WxClient_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0"  Content="Temperature: " />
+        <Label Grid.Row="1" Grid.Column="0"  Content="Wind Speed: " />
+        <Label Grid.Row="2" Grid.Column="0"  Content="Wind Direction: " />
+        <Button Grid.Row="3" Grid.Column="0" Name="cmdStart"  Content="Start Wx Reports" Click="cmdStart_Click" IsEnabled="True"/>
+        <!-- Without using MVVM we are storing ui design and ui state in the same assy -->
+        <Label Grid.Row="0" Grid.Column="1" Name="lblTemperature"  Content=" --- "/>
+        <Label Grid.Row="1" Grid.Column="1" Name="lblWindSpeed"  Content=" --- "/>
+        <Label Grid.Row="2" Grid.Column="1" Name="lblWindDirection"  Content=" --- "/>
+        <Button Grid.Row="3" Grid.Column="1" Name="cmdStop"  Content="Stop Wx Reports" Click="cmdStop_Click" IsEnabled="False"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\TemperatureViewModel.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\TemperatureViewModel.pdb
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\IWx_Station.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\IWx_Station_Extended.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\IWx_Station.pdb
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\IWx_Station_Extended.pdb
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\Build\TemperatureViewModel.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\Build\TemperatureViewModel.pdb
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\obj\Debug\TemperatureViewModel.dll
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\obj\Debug\TemperatureViewModel.pdb
+T:\Documents and Settings\lohe\Downloads\SolvingProblems_VDUNY\SolvingProblems_VDUNY\07_MVVM\TemperatureViewModel\obj\Debug\TemperatureViewModel.csprojResolveAssemblyReference.cache

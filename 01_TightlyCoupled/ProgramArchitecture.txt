@@ -1,0 +1,17 @@
+Client UI (xaml) has labels for data and buttons for actions.
+Server has properties to provide data and methods to start/stop providing data.
+
+Start client
+	Client creates user interface with labels (data) and buttons (actions).
+	Client initializes user state.
+	Client calls server ctor.
+
+
+Wait for user to command an action.
+	If start data reporting
+		Call server run method.
+		Loop until quit
+			Retrieve each of the properties from the server.
+	If stop data reporting
+		Call server quit method.
+		Break out of loop.
